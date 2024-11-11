@@ -14,6 +14,8 @@ To integrate this script into your Shopify store, follow these steps:
 4. Click on **Theme Code**.
 5. Add the following code snippet to your theme:
 
+![alt text](https://i.imgur.com/KjXZ1Q1.png)
+
 
 ## Functionality
 
