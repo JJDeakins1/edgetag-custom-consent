@@ -9,7 +9,7 @@ const checkConsent = () => {
     const consentValue = localStorage.getItem(COOKIE_CONSENT_KEY);
     console.log('Current consent value:', consentValue);
     
-    let edgeTagConsent = { all: false };
+    let edgeTagConsent = { all: true, klaviyo: false };
     
     if (consentValue === 'accepted') {
         edgeTagConsent = { all: true };
